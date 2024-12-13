@@ -1,3 +1,7 @@
 .env
 venv
 note.txt
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
