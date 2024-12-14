@@ -1,5 +1,5 @@
-python-telegram-bot
-python-dotenv
-google-generativeai
+python-telegram-bot==20.0 
+google-generativeai==latest_version
+python-dotenv==latest_version
 requests
 
