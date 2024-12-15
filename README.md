@@ -1,4 +1,4 @@
-# 🤖 AI-Telegram-Chatbot - Your Intelligent Telegram Assistant
+# 🤖 AI-Telegram-Chatbot with Gemini
 
 This Telegram bot powered by cutting-edge AI technology! This bot leverages Gemini model to provide intelligent, conversational responses and assist users with their queries.
 
